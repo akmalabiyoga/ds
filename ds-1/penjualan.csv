@@ -1,0 +1,9 @@
+id_transaksi,tanggal,produk,kategori,jumlah,harga
+T001,2026-09-01,Laptop,Elektronik,2,7500000
+T002,2026-09-01,Mouse,Aksesori,5,150000
+T003,2026-09-02,Keyboard,Aksesori,3,350000
+T004,2026-09-02,Monitor,Elektronik,2,1800000
+T005,2026-09-03,Mouse,Aksesori,4,150000
+T006,2026-09-03,Laptop,Elektronik,1,7500000
+T007,2026-09-04,Keyboard,Aksesori,6,350000
+T008,2026-09-04,Monitor,Elektronik,3,1800000

@@ -1,0 +1,30 @@
+[
+  {
+    "produk":"Laptop",
+    "total_unit":3,
+    "total_omzet":22500000,
+    "rata_harga":7500000.0,
+    "jumlah_transaksi":2
+  },
+  {
+    "produk":"Monitor",
+    "total_unit":5,
+    "total_omzet":9000000,
+    "rata_harga":1800000.0,
+    "jumlah_transaksi":2
+  },
+  {
+    "produk":"Keyboard",
+    "total_unit":9,
+    "total_omzet":3150000,
+    "rata_harga":350000.0,
+    "jumlah_transaksi":2
+  },
+  {
+    "produk":"Mouse",
+    "total_unit":9,
+    "total_omzet":1350000,
+    "rata_harga":150000.0,
+    "jumlah_transaksi":2
+  }
+]
